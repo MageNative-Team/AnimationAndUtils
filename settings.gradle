@@ -1,0 +1,3 @@
+rootProject.name = "AnimationLibarary"
+include ':app'
+include ':rvrAnimationUtil'
